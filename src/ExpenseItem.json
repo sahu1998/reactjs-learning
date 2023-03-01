@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "item" : "Charity"
+    },
+    {
+        "id" : 2,
+        "item" : "Clothing"
+    },
+    {
+        "id" : 3,
+        "item" : "Eating Out"
+    },
+    {
+        "id" : 4,
+        "item" : "Entertainment"
+    },
+    {
+        "id" : 5,
+        "item" : "Gifts"
+    },
+    {
+        "id" : 6,
+        "item" : "Groceries"
+    },
+    {
+        "id" : 7,
+        "item" : "House-care"
+    },
+    {
+        "id" : 8,
+        "item" : "Incidentals"
+    },
+    {
+        "id" : 9,
+        "item" : "Medical"
+    },
+    {
+        "id" : 10,
+        "item" : "Rent"
+    },
+    {
+        "id" : 11,
+        "item" : "Personal Care"
+    },
+    {
+        "id" : 12,
+        "item" : "Utilities"
+    }
+]

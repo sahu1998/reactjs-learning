@@ -1,0 +1,28 @@
+.expense-row{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(60, 2, 2);
+    justify-content: space-between;
+    margin: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-weight:500;
+    padding: 2%;
+    border-radius: 8px;
+}
+.amount{
+    /* width: 10%; */
+    /* justify-content: center; */
+    background-color: rgb(136, 51, 189);
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
+#item{
+    width: 65%;
+    padding: 2%;
+}
+h1{
+    color: white;
+    font-family: cursive;
+}

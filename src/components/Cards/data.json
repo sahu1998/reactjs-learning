@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "abc",
+        "price": "$100",
+        "imagePath": "https://tse1.mm.bing.net/th?id=OIP.VmlslO0jf9diRYuowZ6q-wHaHa&pid=Api&P=0",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    },
+    {
+        "id": 2,
+        "name": "xyz",
+        "price": "$149",
+        "imagePath": "https://tse4.mm.bing.net/th?id=OIP.UYWyLe_KZZGz-208BlMbOQHaJ4&pid=Api&P=0",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    },
+    {
+        "id": 3,
+        "name": "abc",
+        "price": "$199",
+        "imagePath": "https://tse2.mm.bing.net/th?id=OIP.GyyjIMwI8HUuKhLbx_kikwHaHa&pid=Api&P=0",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    },
+    {
+        "id": 4,
+        "name": "abc",
+        "price": "$111",
+        "imagePath": "https://cdn.shopify.com/s/files/1/1279/5447/products/Wholesale-Baby-Wear-Spring-Children-s-Clothes_1_63129ed1-8f96-49c1-8414-9b90fd9d03f3_2048x2048.jpg?v=1571438990",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    },
+    {
+        "id": 5,
+        "name": "abc",
+        "price": "$250",
+        "imagePath": "https://i.pinimg.com/736x/e4/e7/94/e4e7943704ca64e222133c239de48ed7.jpg",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    },
+    {
+        "id": 6,
+        "name": "abc",
+        "price": "$250",
+        "imagePath": "https://tse3.mm.bing.net/th?id=OIP.QJloM10iMiXI0ApCKFArSAHaHa&pid=Api&P=0",
+        "discription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+    }
+]

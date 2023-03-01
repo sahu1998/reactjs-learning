@@ -1,0 +1,11 @@
+.date-part{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(81, 40, 40, 0.853);
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 10px;
+}
+#day{
+    padding: 0px 6px;
+}

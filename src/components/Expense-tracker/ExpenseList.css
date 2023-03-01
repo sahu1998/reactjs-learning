@@ -1,0 +1,14 @@
+.expense-app{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 8px;
+    margin: 2% auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: relative;
+    padding: 20px;
+    background-color:rgb(78 72 116 / 85%);
+}
